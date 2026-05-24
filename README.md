@@ -2,8 +2,6 @@
 
 A hands-on demonstration of event-driven local AWS development using [LocalStack](https://localstack.cloud) — no real AWS account or credentials required.
 
-Built as part of the [LocalStack Director/Head of Product task challenge](https://localstack.notion.site/Director-Head-of-Product-Task-Challenge-328fc2a234318037b444deaacbe7be8a).
-
 ---
 
 ## What This Demo Does
